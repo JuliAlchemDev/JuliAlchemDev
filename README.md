@@ -42,12 +42,9 @@ Mi objetivo es seguir avanzando como desarrolladora y aportar valor a través de
  ## 🌍 Habilidades Lingüísticas:
 
 <div style="text-align: left; margin-left: 10px;">
-    <p style="font-size: 40px; margin-top: -15px;">🇷🇺</p>
-    <p style="margin-top: -30px"><strong>Ruso</strong>: Nativo</p>
-    <p style="font-size: 40px; margin-top: -15px;">🇪🇸</p>
-    <p style="margin-top: -30px"><strong>Español</strong>: Avanzado</p>
-    <p style="font-size: 40px; margin-top: -15px;">🇬🇧</p>
-    <p style="margin-top: -30px"><strong>Inglés</strong>: Técnico</p>
+    <p style="margin-top: -30px">🇷🇺<strong>Ruso</strong>: Nativo</p>
+    <p style="margin-top: -30px">🇪🇸<strong>Español</strong>: Avanzado</p>
+    <p style="margin-top: -30px">🇬🇧<strong>Inglés</strong>: Técnico</p>
 </div>
 
 ## 📌 Últimos proyectos:  
