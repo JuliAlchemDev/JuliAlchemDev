@@ -1,6 +1,6 @@
 <header align="center">
   <h1> 👋 ¡Hola! Soy Julia Alkhimova</h1>
-  <h2><strong>Front-end Developer</strong></h2>
+  <h2><strong>Frontend Developer</strong></h2>
 </header>
 
 ### 🎓 Estudios realizados:
