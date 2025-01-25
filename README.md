@@ -49,7 +49,9 @@ Mi objetivo es seguir avanzando como desarrolladora y aportar valor a través de
 
 ## 📌 Últimos proyectos:  
 
-- RubberDucking (React Markdown Previewer). 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/RubberDucking)  
+- Ejercicios básicos de JavaScript 👉 [ Mira el proyecto aquí!](https://julialchemdev.github.io/S2.1-Ejercicios-basicos-de-JavaScript)
+- RubberDucking (React Markdown Previewer). 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/RubberDucking)
+
 
 
 ## 💬 ¡Conectemos! 
