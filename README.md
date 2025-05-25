@@ -48,9 +48,8 @@ Mi objetivo es seguir avanzando como desarrolladora y aportar valor a través de
 </div>
 
 ## 📌 Últimos proyectos:  
-
-- Ejercicios básicos de JavaScript 👉 [ Mira el proyecto aquí!](https://julialchemdev.github.io/S2.1-Ejercicios-basicos-de-JavaScript)
-- RubberDucking (React Markdown Previewer). 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/RubberDucking)
+- 🥁 Drum Machine - FreeCodeCamp Project 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/FCC-Drum-Machine)
+- 🦆 RubberDucking (React Markdown Previewer). 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/RubberDucking)
 
 
 
