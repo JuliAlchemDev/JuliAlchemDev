@@ -48,6 +48,7 @@ Mi objetivo es seguir avanzando como desarrolladora y aportar valor a través de
 </div>
 
 ## 📌 Últimos proyectos:  
+- 🔍 WYC RefFinder - App para buscar referencias WYC y generar etiquetas para facilitar la organización y producción. 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/wyc-ref-finder)
 - 🥁 Drum Machine - FreeCodeCamp Project 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/FCC-Drum-Machine)
 - 🦆 RubberDucking (React Markdown Previewer). 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/RubberDucking)
 
