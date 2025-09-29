@@ -47,9 +47,10 @@ Mi objetivo es seguir avanzando como desarrolladora y aportar valor a través de
     <p style="margin-top: -30px">🇬🇧<strong>Inglés</strong>: Técnico</p>
 </div>
 
-## 📌 Últimos proyectos:  
+## 📌 Últimos proyectos: 
+- 🔬 React Labs Portafolio - FreeCodeCamp's Full Stack Developer Curriculum. 👉 [ Mira el proyecto aquí!](https://julialchemdev.github.io/FCC-React-Labs-Portfolio/)
 - 🔍 WYC RefFinder - App para buscar referencias WYC y generar etiquetas para facilitar la organización y producción. 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/wyc-ref-finder)
-- 🥁 Drum Machine - FreeCodeCamp Project 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/FCC-Drum-Machine)
+- 🥁 Drum Machine - FreeCodeCamp Project. 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/FCC-Drum-Machine)
 - 🦆 RubberDucking (React Markdown Previewer). 👉 [ Mira el proyecto aquí!](https://github.com/JuliAlchemDev/RubberDucking)
 
 
