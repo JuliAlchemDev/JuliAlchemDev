@@ -7,7 +7,7 @@
       <h1>Hi! I'm Julia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"></h1>
       <p>Frontend Developer (React), based in Barcelona.</p>
       <p>Passionate about UI/UX, layout and translating Figma designs into code.</p>
-      <p>🧩 Focused on reusable components, responsive layouts and visual detail.</p>
+      <p>Focused on reusable components, responsive layouts and visual detail.</p>
     </td>
   </tr>
 </table>
