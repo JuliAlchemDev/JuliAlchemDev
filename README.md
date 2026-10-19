@@ -8,21 +8,21 @@
       <p>Frontend Developer (React), based in Barcelona.</p>
       <p>Passionate about UI/UX, layout and translating Figma designs into code.</p>
       <p>Focused on reusable components, responsive layouts and attention to visual detail.</p>
-      <p>💬 Let's connect: <a href="https://www.linkedin.com/in/julialkhimova"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a></p>
+      <p>💬 Let's connect: <a href="https://www.linkedin.com/in/julialkhimova"><br><img style="margin-inline-start: 5%" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a></p>
     </td>
   </tr>
 </table>
 
-
 ## 🚀 Currently
+
 - Studying Computer Science at [42 | Barcelona](https://www.42barcelona.com)
-- Translating Figma designs into code on Frontend Mentor
+- Translating Figma designs into code on Frontend Mentor<br>
   [![FM](https://img.shields.io/badge/-Profile-3F54A3?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/JuliAlchemDev)
-- Completing the Full Stack certification on FreeCodeCamp
+- Completing the Full Stack certification on FreeCodeCamp<br>
   [![FCC](https://img.shields.io/badge/-Profile-0A0A23?style=flat&logo=freecodecamp)](https://www.freecodecamp.org/julialchem)
 
-
 ## 💻 Building with
+
 **Frontend:** React · JavaScript (ES6+) · HTML · CSS · SASS · TypeScript · Figma <br>
 **Computer Science:** C · Bash · Linux · Git · Python
 
@@ -30,6 +30,3 @@
 
 <!-- ## 🔭 Exploring
 Unity & AR (creative coding) · Python & OpenCV (computer vision basics) -->
-
-
-
